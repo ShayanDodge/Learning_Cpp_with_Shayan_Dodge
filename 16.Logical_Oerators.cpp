@@ -1,5 +1,4 @@
-/*Goal: understand the logical operators supported by C++
-*/
+// The logical operators
 
 #include<iostream>
 #include<string>
