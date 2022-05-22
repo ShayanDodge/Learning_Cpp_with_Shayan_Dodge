@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "We are compiling " $1
-g++ $1 -o $1.exe
-echo "We are running " $1
-./$1.exe
-
