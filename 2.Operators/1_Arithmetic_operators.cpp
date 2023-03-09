@@ -22,17 +22,17 @@ int main() {
     cout << "a % b = " << (a % b) << endl;
 
     // Working of increment and decrement operators
-    
+
     // incrementing a by 1 and storing the result in a then printing a
     cout << "a = " << ++a << endl;
 
     // printing a then incrementing a by 1 and storing the result in a
     cout << "a = " << a++ << endl;
 
-    // decrementing b by 1 and storing the result in b then printing b   
+    // decrementing b by 1 and storing the result in b then printing b 
     cout << "b = " << ++b << endl;
 
-    // printing b then decrementing b by 1 and storing the result in b  
+    // printing b then decrementing b by 1 and storing the result in b
     cout << "b = " << b++ << endl;
     return 0;
 }
