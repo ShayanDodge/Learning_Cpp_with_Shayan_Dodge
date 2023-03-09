@@ -1,4 +1,5 @@
 #include <iostream>
+#include <conio.h>
 using namespace std;
 
 int main() {
@@ -10,5 +11,6 @@ int main() {
   cin >> b;
   sum = a + b;
   cout << a << " + " <<  b << " = " << sum;     
+  getch();
   return 0;
 }
