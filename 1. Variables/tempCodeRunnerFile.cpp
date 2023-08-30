@@ -1,1 +1,1 @@
-<< boolalpha
+number

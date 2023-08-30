@@ -1,4 +1,6 @@
 #include <iostream>
+#include<conio.h>
+
 using namespace std;
  
 int main() {
@@ -16,4 +18,6 @@ int main() {
     
    float average = (num_1 + num_2 + num_3) / 3;
    cout << "Average : " << average << endl;
+
+   getch();
 }
